@@ -1,0 +1,50 @@
+
+#loggedout {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+}
+#loggedin { 
+    display: none; 
+}
+
+#header {
+    padding: 4px;
+    background: #eee;
+}
+
+#output {
+    padding: 4px;
+}
+
+#chart_div {
+    width: 900px; 
+    height: 500px;
+}
+
+#waserror {
+    display: none;
+}
+
+.card { 
+    display: block; 
+    padding: 2px;
+    cursor: pointer;
+}
+
+.sserrorstyle {
+    color: red;
+}
+
+.sswarningstyle {
+    color: darkorange;
+}
+
+.ssokstyle {
+    color: green;
+}
+
+.tableindicator {
+    display:table-cell;
+    padding-left:10px;
+}
